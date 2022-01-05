@@ -1,7 +1,7 @@
 # Child trait predictor based on parents
 
 Predicts mendellian child traits using phenotype inputs from 2 parents.
-
+GUI created used PySimpleGUI
 The application includes 2 input panels: one for parent 1 and one for parent 2.
 
 After the user inputs the phenotypes of both parents, the application calculates all possible genotypes for the child and outputs them in image form in a separate output panel on the right.
